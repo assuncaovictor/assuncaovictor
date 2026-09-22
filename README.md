@@ -1,49 +1,131 @@
-<h1 align="center">Olá, Sou [Seu Nome]! 👋</h1>
-<p align="center">
-  <b>Programador Front-end Pleno</b> | React | React Native | TypeScript | JavaScript | Desenvolvimento Web e Mobile | HTML5 | CSS3 | Jest | Git | GitHub
-</p>
+<div align="center">
+
+# 👋 Olá, eu sou Victor Assunção Melo
+
+### 💻 Programador Front-end Pleno
+
+Desenvolvedor focado na criação de **aplicações web, plataformas digitais e sistemas internos**, com experiência em React, React Native e TypeScript.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-assuncao/)
+[![GitHub](https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEU_USUARIO_GITHUB)
+
+</div>
+
 ---
-💻 Sobre Mim
-Sou profissional de Tecnologia da Informação, graduado em Gestão da Tecnologia da Informação, com experiência como Programador no desenvolvimento de sites, aplicações web, plataformas digitais e sistemas internos de gestão. Atuo com React, React Native, TypeScript e JavaScript, além de conhecimentos em Docker, HTML5, CSS3, desenvolvimento responsivo, acessibilidade web, Jest, Testing Library, Git e GitHub. Minha experiência inclui o desenvolvimento de soluções digitais direcionadas a recrutamento e seleção, plataformas de vagas, Recrutamento Inteligente, saúde mental, propósito e sistemas internos de gestão.
-Busco atuar como Programador Front-end Pleno, contribuindo com minha experiência em desenvolvimento web e mobile, criação de interfaces, evolução de aplicações e construção de soluções digitais. Tenho também conhecimentos em PHP, Programação Orientada a Objetos, MVC, SOLID e Design Patterns, fortalecendo minha capacidade de atuar na construção, manutenção e evolução de aplicações e produtos digitais.
+
+## 🚀 Sobre mim
+
+Sou profissional de **Tecnologia da Informação**, graduado em **Gestão da Tecnologia da Informação**, com experiência no desenvolvimento de:
+
+- 🌐 Sites e aplicações web
+- 📱 Aplicações mobile
+- 🧩 Plataformas digitais
+- 🏢 Sistemas internos de gestão
+- 🎯 Soluções para recrutamento e seleção
+- 🧠 Soluções relacionadas à saúde mental e propósito
+
+Atualmente, atuo como **Programador na Selpe**, participando do desenvolvimento e evolução de soluções digitais utilizadas pela empresa.
+
+Também desenvolvo **projetos web como freelancer**, criando sites institucionais e soluções personalizadas para diferentes clientes.
+
 ---
-🚀 Resultados Profissionais
-Participação no desenvolvimento de plataformas digitais direcionadas a processos de recrutamento e seleção.
-Desenvolvimento de plataformas de vagas com aplicação de conceitos de Recrutamento Inteligente.
-Participação no desenvolvimento do projeto Holi, solução digital voltada à saúde mental e propósito.
-Desenvolvimento e evolução de sistemas internos destinados à gestão e organização de processos.
-Desenvolvimento de projetos web personalizados para diferentes clientes, incluindo sites institucionais e aplicações responsivas.
+
+## 🛠️ Tecnologias & Ferramentas
+
+### Front-end
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=000)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=fff)
+
+### Qualidade & Desenvolvimento
+
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=fff)
+![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=flat-square&logo=testing-library&logoColor=fff)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=fff)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=fff)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=fff)
+
+### Back-end / Arquitetura
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=fff)
+
+`POO` · `MVC` · `SOLID` · `Design Patterns`
+
 ---
-🛠️ Atuação do Dia a Dia
-Desenvolvimento de sites institucionais e projetos web personalizados.
-Desenvolvimento de aplicações e plataformas digitais.
-Criação de interfaces e estruturas digitais.
-Desenvolvimento de páginas web responsivas.
-Implementação e aprimoramento de funcionalidades.
-Manutenção e evolução de aplicações web.
-Desenvolvimento de plataformas direcionadas a recrutamento e seleção.
-Desenvolvimento de sistemas internos para gestão e organização de processos.
-Aplicação de práticas de desenvolvimento Front-end na construção de soluções digitais.
+
+## 🎓 Formação
+
+**Gestão da Tecnologia da Informação**  
+Instituto Federal de Educação, Ciência e Tecnologia do Sudeste de Minas Gerais — **2023**
+
 ---
-🧰 Competências Técnicas
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-</p>
+
+## 📚 Cursos & Estudos
+
+- React JS — Alura
+- React — Alura
+- Git e GitHub — Alura
+- JavaScript — Alura
+- JavaScript na Web — Alura
+- JavaScript: Programação Orientada a Objetos — Alura
+- HTML5 e CSS3 — Alura
+- Layouts Responsivos — Alura
+- Flexbox — Alura
+- CSS Grid — Alura
+- Arquitetura CSS — Alura
+- Acessibilidade Web — Alura
+- PHP — Alura
+- Avançando com PHP — Alura
+- PHP e TDD — Alura
+- PHP e PDO — Alura
+- PHP Composer — Alura
+- PHP Exceptions — Alura
+- Orientação a Objetos com PHP — Alura
+- MVC com PHP — Alura
+- SOLID com PHP — Alura
+- Design Patterns em PHP — Alura
+
 ---
-🎮 Contribuições & Atividade
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
+
+## 🧠 Habilidades
+
+- 🔎 Raciocínio analítico
+- 🧩 Resolução de problemas
+- 📋 Organização
+- 🔄 Adaptabilidade
+- 📈 Aprendizado contínuo
+- 📱 Desenvolvimento mobile
+- 🌐 Desenvolvimento de aplicações web
+- 📐 Desenvolvimento responsivo
+- ♿ Acessibilidade web
+- 🧪 Testes com Jest e Testing Library
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
+
+---
+
+## 📫 Vamos conversar?
+
+Se quiser falar sobre desenvolvimento web, tecnologia ou algum projeto, fique à vontade para entrar em contato.
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Victor_Assunção-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-assuncao/)
+
+**💻 Desenvolvendo soluções digitais, um commit por vez.**
+
+</div>
